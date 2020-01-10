@@ -7,4 +7,5 @@ function sum(n){
 	return summation;
 }
 
-console.log(sum(numbers));1
+console.log(sum(numbers));
+//server e tolar por kicu text
